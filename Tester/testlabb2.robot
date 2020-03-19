@@ -1,6 +1,6 @@
 *** Settings ***
 Documentation                   Documentation abt testsuite
-Resource                        keywords.robot
+Resource                        ../Resources/keywords.robot
 Library                         SeleniumLibrary
 Test Setup  Begin Web Test
 Test Teardown  End Web Test
