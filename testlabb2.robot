@@ -17,7 +17,7 @@ Creating account using invalid inputs
     Create User Invalid
     Invalid Password Message
 
-User can successfully create a new user
+#User can successfully create a new user
     #[Documentation]             "Page Functionality", "Create User".
     #[Tags]                      ValidCreateUser
     #Create Valid User
