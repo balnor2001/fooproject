@@ -5,6 +5,7 @@ pipeline {
             steps {
                 git 'https://github.com/balnor2001/fooproject.git'
             }
+            }
         stage('newman') {
             steps {
 
@@ -20,7 +21,6 @@ pipeline {
 
                     }
                 }
-        }
         }
     }
 }
