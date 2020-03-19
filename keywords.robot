@@ -1,6 +1,9 @@
+*** Variables ***
+${BROWSER} = chrome
+
 *** Keywords ***
 Begin Web Test
-    Open Browser                about:blank         chrome
+    Open Browser                about:blank         ${BROWSER}
     Go To                       http://rental6.infotiv.net/
 
 I Am On Main Page

@@ -5,8 +5,6 @@ Library                         SeleniumLibrary
 Test Setup  Begin Web Test
 Test Teardown  End Web Test
 
-
-
 *** Test Cases ***
 User can access http://rental6.infotiv.net
     [Documentation]             Test will see if loading page is possible
