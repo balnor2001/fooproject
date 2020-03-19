@@ -18,10 +18,10 @@ Creating account using invalid inputs
     Invalid Password Message
 
 User can successfully create a new user
-    [Documentation]             "Page Functionality", "Create User".
-    [Tags]                      ValidCreateUser
-    Create Valid User
-    Verify valid login message
+    #[Documentation]             "Page Functionality", "Create User".
+    #[Tags]                      ValidCreateUser
+    #Create Valid User
+    #Verify valid login message
 
 Select invalid dates to rent car
     [Documentation]             "Date Selection"
