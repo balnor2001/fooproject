@@ -1,6 +1,6 @@
 *** Settings ***
 Documentation                   Documentation abt testsuite
-Resource                        C:\Users\Balder\IdeaProjects\fooproject\keywords.robot
+Resource                        keywords.robot
 Library                         SeleniumLibrary
 Test Setup  Begin Web Test
 Test Teardown  End Web Test
